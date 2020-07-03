@@ -42048,7 +42048,7 @@ G:function(a){var t=null
 return new T.fn(C.a9,t,t,L.cq("The Favorites",t,t,t),t)}}
 O.lh.prototype={
 yr:function(a,b){var t=null
-return M.cD(t,L.cq("Ingredients",t,t,K.ay(a).y2.f),t,t,t,t,t,new V.av(0,10,0,10),t,t,t)},
+return M.cD(t,L.cq(b,t,t,K.ay(a).y2.f),t,t,t,t,t,new V.av(0,10,0,10),t,t,t)},
 yp:function(a){var t=null,s=new Y.e2(C.yu,1,C.N),r=new P.aP(10,10)
 return M.cD(t,a,t,t,S.ht(new F.bJ(s,s,s,s),new K.bc(r,r,r,r),t,C.j,t,t,C.T),t,150,new V.av(10,10,10,10),new V.av(10,10,10,10),t,300)},
 G:function(a){var t=this,s=null,r=C.b.qF(C.om,new O.Kf(H.bO(T.p9(a,u._).b.b))),q=E.UB(L.cq(r.c,s,s,s)),p=T.uU(H.a([M.cD(s,U.XT(r.d,C.kr,s,s),s,s,s,s,300,s,s,s,1/0),t.yr(a,"Ingredients"),t.yp(B.Vg(new O.Kg(a,r),r.e.length)),t.yr(a,"Steps"),t.yp(B.Vg(new O.Kh(r),r.f.length))],u.t),C.at,C.bs,C.aQ)
